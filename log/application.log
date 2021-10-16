@@ -1,0 +1,4780 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sat Oct 16 19:34:43 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:27</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-16 19:34:48,078 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>22</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:35</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-16 19:34:48,100 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sat Oct 16 19:35:03 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>17050</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:27</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-16 19:35:05,128 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>17052</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:35</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-16 19:35:05,130 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>21403</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:43</td>
+<td title="Message">***Clicking on Regsiter link in the Home page***</td>
+</tr>
+2021-10-16 19:35:09,481 [main] INFO FarmIQProjectVersion1 - ***Clicking on Regsiter link in the Home page***
+
+<tr>
+<td>23554</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:51</td>
+<td title="Message">***Clicking on on Regsiter button on Registration Page***</td>
+</tr>
+2021-10-16 19:35:11,632 [main] INFO FarmIQProjectVersion1 - ***Clicking on on Regsiter button on Registration Page***
+
+<tr>
+<td>23659</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:62</td>
+<td title="Message">***Validating invalid login leaving mandatory fields blank***</td>
+</tr>
+2021-10-16 19:35:11,737 [main] INFO FarmIQProjectVersion1 - ***Validating invalid login leaving mandatory fields blank***
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sat Oct 16 19:35:50 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:27</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-16 19:35:52,706 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>22</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:35</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-16 19:35:52,728 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sat Oct 16 19:36:14 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>22972</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:27</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-16 19:36:15,678 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>22974</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:35</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-16 19:36:15,680 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>27582</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:43</td>
+<td title="Message">***Clicking on Regsiter link in the Home page***</td>
+</tr>
+2021-10-16 19:36:20,288 [main] INFO FarmIQProjectVersion1 - ***Clicking on Regsiter link in the Home page***
+
+<tr>
+<td>29966</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:51</td>
+<td title="Message">***Clicking on on Regsiter button on Registration Page***</td>
+</tr>
+2021-10-16 19:36:22,672 [main] INFO FarmIQProjectVersion1 - ***Clicking on on Regsiter button on Registration Page***
+
+<tr>
+<td>30063</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:62</td>
+<td title="Message">***Validating invalid login leaving mandatory fields blank***</td>
+</tr>
+2021-10-16 19:36:22,769 [main] INFO FarmIQProjectVersion1 - ***Validating invalid login leaving mandatory fields blank***
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sat Oct 16 20:01:24 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:66</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-16 20:01:24,374 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sat Oct 16 20:01:24 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>152</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:66</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-16 20:01:24,526 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sat Oct 16 20:12:58 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:53</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-16 20:13:00,306 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>25</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:67</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-16 20:13:00,331 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sat Oct 16 20:13:22 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>23006</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:53</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-16 20:13:23,312 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>23008</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:67</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-16 20:13:23,314 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>27345</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:75</td>
+<td title="Message">***Clicking on Regsiter link in the Home page***</td>
+</tr>
+2021-10-16 20:13:27,651 [main] INFO FarmIQProjectVersion1 - ***Clicking on Regsiter link in the Home page***
+
+<tr>
+<td>28838</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:83</td>
+<td title="Message">***Clicking on on Regsiter button on Registration Page***</td>
+</tr>
+2021-10-16 20:13:29,144 [main] INFO FarmIQProjectVersion1 - ***Clicking on on Regsiter button on Registration Page***
+
+<tr>
+<td>28938</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:93</td>
+<td title="Message">***Validating invalid login leaving mandatory fields blank***</td>
+</tr>
+2021-10-16 20:13:29,244 [main] INFO FarmIQProjectVersion1 - ***Validating invalid login leaving mandatory fields blank***
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sat Oct 16 20:14:20 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:53</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-16 20:14:26,664 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>25</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:67</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-16 20:14:26,689 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sat Oct 16 20:14:48 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>24767</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:53</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-16 20:14:51,431 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>24772</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:67</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-16 20:14:51,436 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>29127</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:75</td>
+<td title="Message">***Clicking on Regsiter link in the Home page***</td>
+</tr>
+2021-10-16 20:14:55,791 [main] INFO FarmIQProjectVersion1 - ***Clicking on Regsiter link in the Home page***
+
+<tr>
+<td>31326</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:83</td>
+<td title="Message">***Clicking on on Regsiter button on Registration Page***</td>
+</tr>
+2021-10-16 20:14:57,990 [main] INFO FarmIQProjectVersion1 - ***Clicking on on Regsiter button on Registration Page***
+
+<tr>
+<td>31429</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:93</td>
+<td title="Message">***Validating invalid login leaving mandatory fields blank***</td>
+</tr>
+2021-10-16 20:14:58,093 [main] INFO FarmIQProjectVersion1 - ***Validating invalid login leaving mandatory fields blank***
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sat Oct 16 20:21:28 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:53</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-16 20:21:30,557 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>22</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:67</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-16 20:21:30,579 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sat Oct 16 20:21:52 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>23375</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:53</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-16 20:21:53,932 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>23378</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:67</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-16 20:21:53,935 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>27894</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:75</td>
+<td title="Message">***Clicking on Regsiter link in the Home page***</td>
+</tr>
+2021-10-16 20:21:58,451 [main] INFO FarmIQProjectVersion1 - ***Clicking on Regsiter link in the Home page***
+
+<tr>
+<td>29547</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:83</td>
+<td title="Message">***Clicking on on Regsiter button on Registration Page***</td>
+</tr>
+2021-10-16 20:22:00,104 [main] INFO FarmIQProjectVersion1 - ***Clicking on on Regsiter button on Registration Page***
+
+<tr>
+<td>29651</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:93</td>
+<td title="Message">***Validating invalid login leaving mandatory fields blank***</td>
+</tr>
+2021-10-16 20:22:00,208 [main] INFO FarmIQProjectVersion1 - ***Validating invalid login leaving mandatory fields blank***
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sat Oct 16 20:56:44 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:53</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-16 20:56:48,908 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>27</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:67</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-16 20:56:48,935 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sat Oct 16 20:57:12 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>25256</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:53</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-16 20:57:14,164 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>25260</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:67</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-16 20:57:14,168 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>30036</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:75</td>
+<td title="Message">***Clicking on Regsiter link in the Home page***</td>
+</tr>
+2021-10-16 20:57:18,944 [main] INFO FarmIQProjectVersion1 - ***Clicking on Regsiter link in the Home page***
+
+<tr>
+<td>32508</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:83</td>
+<td title="Message">***Clicking on on Regsiter button on Registration Page***</td>
+</tr>
+2021-10-16 20:57:21,416 [main] INFO FarmIQProjectVersion1 - ***Clicking on on Regsiter button on Registration Page***
+
+<tr>
+<td>32675</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:93</td>
+<td title="Message">***Validating invalid login leaving mandatory fields blank***</td>
+</tr>
+2021-10-16 20:57:21,583 [main] INFO FarmIQProjectVersion1 - ***Validating invalid login leaving mandatory fields blank***
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sat Oct 16 20:57:41 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:53</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-16 20:57:44,188 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>29</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:67</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-16 20:57:44,217 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sat Oct 16 20:58:04 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>21712</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:53</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-16 20:58:05,900 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>21716</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:67</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-16 20:58:05,904 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>26377</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:75</td>
+<td title="Message">***Clicking on Regsiter link in the Home page***</td>
+</tr>
+2021-10-16 20:58:10,565 [main] INFO FarmIQProjectVersion1 - ***Clicking on Regsiter link in the Home page***
+
+<tr>
+<td>28535</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:83</td>
+<td title="Message">***Clicking on on Regsiter button on Registration Page***</td>
+</tr>
+2021-10-16 20:58:12,723 [main] INFO FarmIQProjectVersion1 - ***Clicking on on Regsiter button on Registration Page***
+
+<tr>
+<td>28643</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:93</td>
+<td title="Message">***Validating invalid login leaving mandatory fields blank***</td>
+</tr>
+2021-10-16 20:58:12,831 [main] INFO FarmIQProjectVersion1 - ***Validating invalid login leaving mandatory fields blank***
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sat Oct 16 21:00:42 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sat Oct 16 21:01:29 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:53</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-16 21:01:31,352 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>20</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:67</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-16 21:01:31,372 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sat Oct 16 21:01:52 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>21922</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:53</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-16 21:01:53,274 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>21925</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:67</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-16 21:01:53,277 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>26589</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:75</td>
+<td title="Message">***Clicking on Regsiter link in the Home page***</td>
+</tr>
+2021-10-16 21:01:57,941 [main] INFO FarmIQProjectVersion1 - ***Clicking on Regsiter link in the Home page***
+
+<tr>
+<td>28719</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:83</td>
+<td title="Message">***Clicking on on Regsiter button on Registration Page***</td>
+</tr>
+2021-10-16 21:02:00,071 [main] INFO FarmIQProjectVersion1 - ***Clicking on on Regsiter button on Registration Page***
+
+<tr>
+<td>28826</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:93</td>
+<td title="Message">***Validating invalid login leaving mandatory fields blank***</td>
+</tr>
+2021-10-16 21:02:00,178 [main] INFO FarmIQProjectVersion1 - ***Validating invalid login leaving mandatory fields blank***
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 07:43:20 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:54</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 07:43:24,901 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>34</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:68</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 07:43:24,935 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 07:43:49 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>25520</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:54</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 07:43:50,421 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>25522</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:68</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 07:43:50,423 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 07:44:01 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>37852</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:54</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 07:44:02,753 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>37855</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:68</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 07:44:02,756 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>42231</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:76</td>
+<td title="Message">***Clicking on Regsiter link in the Home page***</td>
+</tr>
+2021-10-17 07:44:07,132 [main] INFO FarmIQProjectVersion1 - ***Clicking on Regsiter link in the Home page***
+
+<tr>
+<td>44341</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:84</td>
+<td title="Message">***Clicking on on Regsiter button on Registration Page***</td>
+</tr>
+2021-10-17 07:44:09,242 [main] INFO FarmIQProjectVersion1 - ***Clicking on on Regsiter button on Registration Page***
+
+<tr>
+<td>44434</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:94</td>
+<td title="Message">***Validating invalid login leaving mandatory fields blank***</td>
+</tr>
+2021-10-17 07:44:09,335 [main] INFO FarmIQProjectVersion1 - ***Validating invalid login leaving mandatory fields blank***
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 07:46:08 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:54</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 07:46:10,550 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>24</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:68</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 07:46:10,574 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 07:46:32 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>23376</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:54</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 07:46:33,926 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>23378</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:68</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 07:46:33,928 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 07:46:53 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>43935</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:54</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 07:46:54,485 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>43938</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:68</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 07:46:54,488 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>48814</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:76</td>
+<td title="Message">***Clicking on Regsiter link in the Home page***</td>
+</tr>
+2021-10-17 07:46:59,364 [main] INFO FarmIQProjectVersion1 - ***Clicking on Regsiter link in the Home page***
+
+<tr>
+<td>50741</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:84</td>
+<td title="Message">***Clicking on on Regsiter button on Registration Page***</td>
+</tr>
+2021-10-17 07:47:01,291 [main] INFO FarmIQProjectVersion1 - ***Clicking on on Regsiter button on Registration Page***
+
+<tr>
+<td>50835</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:94</td>
+<td title="Message">***Validating invalid login leaving mandatory fields blank***</td>
+</tr>
+2021-10-17 07:47:01,385 [main] INFO FarmIQProjectVersion1 - ***Validating invalid login leaving mandatory fields blank***
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 07:48:15 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:54</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 07:48:17,992 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>20</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:68</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 07:48:18,012 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 07:48:39 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>22355</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:54</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 07:48:40,347 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>22356</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:68</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 07:48:40,348 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 07:48:58 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>42079</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:54</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 07:49:00,071 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>42082</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:68</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 07:49:00,074 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>46984</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:76</td>
+<td title="Message">***Clicking on Regsiter link in the Home page***</td>
+</tr>
+2021-10-17 07:49:04,976 [main] INFO FarmIQProjectVersion1 - ***Clicking on Regsiter link in the Home page***
+
+<tr>
+<td>48490</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:84</td>
+<td title="Message">***Clicking on on Regsiter button on Registration Page***</td>
+</tr>
+2021-10-17 07:49:06,482 [main] INFO FarmIQProjectVersion1 - ***Clicking on on Regsiter button on Registration Page***
+
+<tr>
+<td>48589</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:94</td>
+<td title="Message">***Validating invalid login leaving mandatory fields blank***</td>
+</tr>
+2021-10-17 07:49:06,581 [main] INFO FarmIQProjectVersion1 - ***Validating invalid login leaving mandatory fields blank***
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 07:53:10 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 07:53:12,701 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>29</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 07:53:12,730 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 07:53:34 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>23522</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 07:53:36,223 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>23525</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 07:53:36,226 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 07:53:53 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>42269</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 07:53:54,970 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>42271</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 07:53:54,972 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>46791</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:72</td>
+<td title="Message">***Clicking on Regsiter link in the Home page***</td>
+</tr>
+2021-10-17 07:53:59,492 [main] INFO FarmIQProjectVersion1 - ***Clicking on Regsiter link in the Home page***
+
+<tr>
+<td>48898</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:80</td>
+<td title="Message">***Clicking on on Regsiter button on Registration Page***</td>
+</tr>
+2021-10-17 07:54:01,599 [main] INFO FarmIQProjectVersion1 - ***Clicking on on Regsiter button on Registration Page***
+
+<tr>
+<td>49000</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:90</td>
+<td title="Message">***Validating invalid login leaving mandatory fields blank***</td>
+</tr>
+2021-10-17 07:54:01,701 [main] INFO FarmIQProjectVersion1 - ***Validating invalid login leaving mandatory fields blank***
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 07:56:02 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 07:56:04,640 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>26</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 07:56:04,666 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 07:56:26 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>22978</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 07:56:27,618 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>22981</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 07:56:27,621 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 07:56:46 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>42802</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 07:56:47,442 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>42804</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 07:56:47,444 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>47317</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:72</td>
+<td title="Message">***Clicking on Regsiter link in the Home page***</td>
+</tr>
+2021-10-17 07:56:51,957 [main] INFO FarmIQProjectVersion1 - ***Clicking on Regsiter link in the Home page***
+
+<tr>
+<td>49323</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:80</td>
+<td title="Message">***Clicking on on Regsiter button on Registration Page***</td>
+</tr>
+2021-10-17 07:56:53,963 [main] INFO FarmIQProjectVersion1 - ***Clicking on on Regsiter button on Registration Page***
+
+<tr>
+<td>49428</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:90</td>
+<td title="Message">***Validating invalid login leaving mandatory fields blank***</td>
+</tr>
+2021-10-17 07:56:54,068 [main] INFO FarmIQProjectVersion1 - ***Validating invalid login leaving mandatory fields blank***
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 07:57:43 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 07:57:45,604 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>25</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 07:57:45,629 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 07:58:06 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>22283</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 07:58:07,887 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>22285</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 07:58:07,889 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 07:58:26 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>41781</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 07:58:27,385 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>41851</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 07:58:27,455 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>46271</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:72</td>
+<td title="Message">***Clicking on Regsiter link in the Home page***</td>
+</tr>
+2021-10-17 07:58:31,875 [main] INFO FarmIQProjectVersion1 - ***Clicking on Regsiter link in the Home page***
+
+<tr>
+<td>47864</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:80</td>
+<td title="Message">***Clicking on on Regsiter button on Registration Page***</td>
+</tr>
+2021-10-17 07:58:33,468 [main] INFO FarmIQProjectVersion1 - ***Clicking on on Regsiter button on Registration Page***
+
+<tr>
+<td>48058</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:90</td>
+<td title="Message">***Validating invalid login leaving mandatory fields blank***</td>
+</tr>
+2021-10-17 07:58:33,662 [main] INFO FarmIQProjectVersion1 - ***Validating invalid login leaving mandatory fields blank***
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 08:02:39 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 08:02:41,762 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>32</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 08:02:41,794 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 08:03:01 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>21465</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 08:03:03,227 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>21468</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 08:03:03,230 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 08:03:17 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>36752</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 08:03:18,514 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>36756</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 08:03:18,518 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>40821</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:72</td>
+<td title="Message">***Clicking on Regsiter link in the Home page***</td>
+</tr>
+2021-10-17 08:03:22,583 [main] INFO FarmIQProjectVersion1 - ***Clicking on Regsiter link in the Home page***
+
+<tr>
+<td>42742</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:80</td>
+<td title="Message">***Clicking on on Regsiter button on Registration Page***</td>
+</tr>
+2021-10-17 08:03:24,504 [main] INFO FarmIQProjectVersion1 - ***Clicking on on Regsiter button on Registration Page***
+
+<tr>
+<td>42844</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:90</td>
+<td title="Message">***Validating invalid login leaving mandatory fields blank***</td>
+</tr>
+2021-10-17 08:03:24,606 [main] INFO FarmIQProjectVersion1 - ***Validating invalid login leaving mandatory fields blank***
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 08:13:58 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 08:14:01,291 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>31</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 08:14:01,322 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 08:14:20 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>20391</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 08:14:21,682 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>20393</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 08:14:21,684 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 08:14:35 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>35807</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 08:14:37,098 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>35809</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 08:14:37,100 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>40052</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:72</td>
+<td title="Message">***Clicking on Regsiter link in the Home page***</td>
+</tr>
+2021-10-17 08:14:41,343 [main] INFO FarmIQProjectVersion1 - ***Clicking on Regsiter link in the Home page***
+
+<tr>
+<td>41447</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:80</td>
+<td title="Message">***Clicking on on Regsiter button on Registration Page***</td>
+</tr>
+2021-10-17 08:14:42,738 [main] INFO FarmIQProjectVersion1 - ***Clicking on on Regsiter button on Registration Page***
+
+<tr>
+<td>41612</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:90</td>
+<td title="Message">***Validating invalid login leaving mandatory fields blank***</td>
+</tr>
+2021-10-17 08:14:42,903 [main] INFO FarmIQProjectVersion1 - ***Validating invalid login leaving mandatory fields blank***
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 08:19:47 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 08:19:49,819 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>29</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 08:19:49,848 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 08:20:09 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>21420</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 08:20:11,239 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>21422</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 08:20:11,241 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 08:20:25 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>37410</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 08:20:27,229 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>37412</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 08:20:27,231 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>41999</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:72</td>
+<td title="Message">***Clicking on Regsiter link in the Home page***</td>
+</tr>
+2021-10-17 08:20:31,818 [main] INFO FarmIQProjectVersion1 - ***Clicking on Regsiter link in the Home page***
+
+<tr>
+<td>43939</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:80</td>
+<td title="Message">***Clicking on on Regsiter button on Registration Page***</td>
+</tr>
+2021-10-17 08:20:33,758 [main] INFO FarmIQProjectVersion1 - ***Clicking on on Regsiter button on Registration Page***
+
+<tr>
+<td>44047</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:90</td>
+<td title="Message">***Validating invalid login leaving mandatory fields blank***</td>
+</tr>
+2021-10-17 08:20:33,866 [main] INFO FarmIQProjectVersion1 - ***Validating invalid login leaving mandatory fields blank***
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 08:31:16 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 08:31:19,274 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>28</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 08:31:19,302 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>5409</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:177</td>
+<td title="Message">***Clicking on Sale Icon***</td>
+</tr>
+2021-10-17 08:31:24,683 [main] INFO FarmIQProjectVersion1 - ***Clicking on Sale Icon***
+
+<tr>
+<td>6705</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:187</td>
+<td title="Message">***Clicking on Add To Basket Button***</td>
+</tr>
+2021-10-17 08:31:25,979 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add To Basket Button***
+
+<tr>
+<td>6843</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:197</td>
+<td title="Message">***Validating add to basket error on leaving selection drop down blank***</td>
+</tr>
+2021-10-17 08:31:26,117 [main] INFO FarmIQProjectVersion1 - ***Validating add to basket error on leaving selection drop down blank***
+
+<tr>
+<td>9316</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:206</td>
+<td title="Message">***Selecting installation service from the drop down***</td>
+</tr>
+2021-10-17 08:31:28,590 [main] INFO FarmIQProjectVersion1 - ***Selecting installation service from the drop down***
+
+<tr>
+<td>9524</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:221</td>
+<td title="Message">***Clicking on Cart Icon***</td>
+</tr>
+2021-10-17 08:31:28,798 [main] INFO FarmIQProjectVersion1 - ***Clicking on Cart Icon***
+
+<tr>
+<td>9625</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:230</td>
+<td title="Message">***Clicking on View Basket Button***</td>
+</tr>
+2021-10-17 08:31:28,899 [main] INFO FarmIQProjectVersion1 - ***Clicking on View Basket Button***
+
+<tr>
+<td>11715</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:238</td>
+<td title="Message">***Clicking on Add to Basket Button***</td>
+</tr>
+2021-10-17 08:31:30,989 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add to Basket Button***
+
+<tr>
+<td>11759</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:246</td>
+<td title="Message">***Clicking on Continue Shopping Button***</td>
+</tr>
+2021-10-17 08:31:31,033 [main] INFO FarmIQProjectVersion1 - ***Clicking on Continue Shopping Button***
+
+<tr>
+<td>12727</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:177</td>
+<td title="Message">***Clicking on Sale Icon***</td>
+</tr>
+2021-10-17 08:31:32,001 [main] INFO FarmIQProjectVersion1 - ***Clicking on Sale Icon***
+
+<tr>
+<td>13873</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:262</td>
+<td title="Message">***Clicking on Asdd to Basket for the second Item***</td>
+</tr>
+2021-10-17 08:31:33,147 [main] INFO FarmIQProjectVersion1 - ***Clicking on Asdd to Basket for the second Item***
+
+<tr>
+<td>14018</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:197</td>
+<td title="Message">***Validating add to basket error on leaving selection drop down blank***</td>
+</tr>
+2021-10-17 08:31:33,292 [main] INFO FarmIQProjectVersion1 - ***Validating add to basket error on leaving selection drop down blank***
+
+<tr>
+<td>16401</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:253</td>
+<td title="Message">***Selecting Colour of the Item from the drop down***</td>
+</tr>
+2021-10-17 08:31:35,675 [main] INFO FarmIQProjectVersion1 - ***Selecting Colour of the Item from the drop down***
+
+<tr>
+<td>16599</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:221</td>
+<td title="Message">***Clicking on Cart Icon***</td>
+</tr>
+2021-10-17 08:31:35,873 [main] INFO FarmIQProjectVersion1 - ***Clicking on Cart Icon***
+
+<tr>
+<td>16678</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:230</td>
+<td title="Message">***Clicking on View Basket Button***</td>
+</tr>
+2021-10-17 08:31:35,952 [main] INFO FarmIQProjectVersion1 - ***Clicking on View Basket Button***
+
+<tr>
+<td>17692</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:238</td>
+<td title="Message">***Clicking on Add to Basket Button***</td>
+</tr>
+2021-10-17 08:31:36,966 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add to Basket Button***
+
+<tr>
+<td>17721</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:271</td>
+<td title="Message">***Validating Grant Total of the Items in the Basket after GST***</td>
+</tr>
+2021-10-17 08:31:36,995 [main] INFO FarmIQProjectVersion1 - ***Validating Grant Total of the Items in the Basket after GST***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 08:31:37 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>19369</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 08:31:38,643 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>19372</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 08:31:38,646 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>23660</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:177</td>
+<td title="Message">***Clicking on Sale Icon***</td>
+</tr>
+2021-10-17 08:31:42,934 [main] INFO FarmIQProjectVersion1 - ***Clicking on Sale Icon***
+
+<tr>
+<td>24669</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:187</td>
+<td title="Message">***Clicking on Add To Basket Button***</td>
+</tr>
+2021-10-17 08:31:43,943 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add To Basket Button***
+
+<tr>
+<td>24822</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:197</td>
+<td title="Message">***Validating add to basket error on leaving selection drop down blank***</td>
+</tr>
+2021-10-17 08:31:44,096 [main] INFO FarmIQProjectVersion1 - ***Validating add to basket error on leaving selection drop down blank***
+
+<tr>
+<td>27221</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:206</td>
+<td title="Message">***Selecting installation service from the drop down***</td>
+</tr>
+2021-10-17 08:31:46,495 [main] INFO FarmIQProjectVersion1 - ***Selecting installation service from the drop down***
+
+<tr>
+<td>27460</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:177</td>
+<td title="Message">***Clicking on Sale Icon***</td>
+</tr>
+2021-10-17 08:31:46,734 [main] INFO FarmIQProjectVersion1 - ***Clicking on Sale Icon***
+
+<tr>
+<td>28466</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:262</td>
+<td title="Message">***Clicking on Asdd to Basket for the second Item***</td>
+</tr>
+2021-10-17 08:31:47,740 [main] INFO FarmIQProjectVersion1 - ***Clicking on Asdd to Basket for the second Item***
+
+<tr>
+<td>28618</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:197</td>
+<td title="Message">***Validating add to basket error on leaving selection drop down blank***</td>
+</tr>
+2021-10-17 08:31:47,892 [main] INFO FarmIQProjectVersion1 - ***Validating add to basket error on leaving selection drop down blank***
+
+<tr>
+<td>31840</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:253</td>
+<td title="Message">***Selecting Colour of the Item from the drop down***</td>
+</tr>
+2021-10-17 08:31:51,114 [main] INFO FarmIQProjectVersion1 - ***Selecting Colour of the Item from the drop down***
+
+<tr>
+<td>32101</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:221</td>
+<td title="Message">***Clicking on Cart Icon***</td>
+</tr>
+2021-10-17 08:31:51,375 [main] INFO FarmIQProjectVersion1 - ***Clicking on Cart Icon***
+
+<tr>
+<td>32227</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:230</td>
+<td title="Message">***Clicking on View Basket Button***</td>
+</tr>
+2021-10-17 08:31:51,501 [main] INFO FarmIQProjectVersion1 - ***Clicking on View Basket Button***
+
+<tr>
+<td>33638</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:238</td>
+<td title="Message">***Clicking on Add to Basket Button***</td>
+</tr>
+2021-10-17 08:31:52,912 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add to Basket Button***
+
+<tr>
+<td>33727</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:271</td>
+<td title="Message">***Validating Grant Total of the Items in the Basket after GST***</td>
+</tr>
+2021-10-17 08:31:53,001 [main] INFO FarmIQProjectVersion1 - ***Validating Grant Total of the Items in the Basket after GST***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 08:31:53 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>35527</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 08:31:54,801 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>35531</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 08:31:54,805 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>39768</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:72</td>
+<td title="Message">***Clicking on Regsiter link in the Home page***</td>
+</tr>
+2021-10-17 08:31:59,042 [main] INFO FarmIQProjectVersion1 - ***Clicking on Regsiter link in the Home page***
+
+<tr>
+<td>41508</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:80</td>
+<td title="Message">***Clicking on on Regsiter button on Registration Page***</td>
+</tr>
+2021-10-17 08:32:00,782 [main] INFO FarmIQProjectVersion1 - ***Clicking on on Regsiter button on Registration Page***
+
+<tr>
+<td>41615</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:90</td>
+<td title="Message">***Validating invalid login leaving mandatory fields blank***</td>
+</tr>
+2021-10-17 08:32:00,889 [main] INFO FarmIQProjectVersion1 - ***Validating invalid login leaving mandatory fields blank***
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 08:33:47 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 08:33:50,254 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>21</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 08:33:50,275 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>4693</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:178</td>
+<td title="Message">***Clicking on Sale Icon***</td>
+</tr>
+2021-10-17 08:33:54,947 [main] INFO FarmIQProjectVersion1 - ***Clicking on Sale Icon***
+
+<tr>
+<td>6052</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:188</td>
+<td title="Message">***Clicking on Add To Basket Button***</td>
+</tr>
+2021-10-17 08:33:56,306 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add To Basket Button***
+
+<tr>
+<td>6206</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:198</td>
+<td title="Message">***Validating add to basket error on leaving selection drop down blank***</td>
+</tr>
+2021-10-17 08:33:56,460 [main] INFO FarmIQProjectVersion1 - ***Validating add to basket error on leaving selection drop down blank***
+
+<tr>
+<td>8396</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:207</td>
+<td title="Message">***Selecting installation service from the drop down***</td>
+</tr>
+2021-10-17 08:33:58,650 [main] INFO FarmIQProjectVersion1 - ***Selecting installation service from the drop down***
+
+<tr>
+<td>8639</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:222</td>
+<td title="Message">***Clicking on Cart Icon***</td>
+</tr>
+2021-10-17 08:33:58,893 [main] INFO FarmIQProjectVersion1 - ***Clicking on Cart Icon***
+
+<tr>
+<td>8732</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:231</td>
+<td title="Message">***Clicking on View Basket Button***</td>
+</tr>
+2021-10-17 08:33:58,986 [main] INFO FarmIQProjectVersion1 - ***Clicking on View Basket Button***
+
+<tr>
+<td>11113</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:239</td>
+<td title="Message">***Clicking on Add to Basket Button***</td>
+</tr>
+2021-10-17 08:34:01,367 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add to Basket Button***
+
+<tr>
+<td>11203</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:247</td>
+<td title="Message">***Clicking on Continue Shopping Button***</td>
+</tr>
+2021-10-17 08:34:01,457 [main] INFO FarmIQProjectVersion1 - ***Clicking on Continue Shopping Button***
+
+<tr>
+<td>12279</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:178</td>
+<td title="Message">***Clicking on Sale Icon***</td>
+</tr>
+2021-10-17 08:34:02,533 [main] INFO FarmIQProjectVersion1 - ***Clicking on Sale Icon***
+
+<tr>
+<td>13486</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:263</td>
+<td title="Message">***Clicking on Asdd to Basket for the second Item***</td>
+</tr>
+2021-10-17 08:34:03,740 [main] INFO FarmIQProjectVersion1 - ***Clicking on Asdd to Basket for the second Item***
+
+<tr>
+<td>13658</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:198</td>
+<td title="Message">***Validating add to basket error on leaving selection drop down blank***</td>
+</tr>
+2021-10-17 08:34:03,912 [main] INFO FarmIQProjectVersion1 - ***Validating add to basket error on leaving selection drop down blank***
+
+<tr>
+<td>15998</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:254</td>
+<td title="Message">***Selecting Colour of the Item from the drop down***</td>
+</tr>
+2021-10-17 08:34:06,252 [main] INFO FarmIQProjectVersion1 - ***Selecting Colour of the Item from the drop down***
+
+<tr>
+<td>16200</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:222</td>
+<td title="Message">***Clicking on Cart Icon***</td>
+</tr>
+2021-10-17 08:34:06,454 [main] INFO FarmIQProjectVersion1 - ***Clicking on Cart Icon***
+
+<tr>
+<td>16286</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:231</td>
+<td title="Message">***Clicking on View Basket Button***</td>
+</tr>
+2021-10-17 08:34:06,540 [main] INFO FarmIQProjectVersion1 - ***Clicking on View Basket Button***
+
+<tr>
+<td>17426</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:239</td>
+<td title="Message">***Clicking on Add to Basket Button***</td>
+</tr>
+2021-10-17 08:34:07,680 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add to Basket Button***
+
+<tr>
+<td>17499</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:272</td>
+<td title="Message">***Validating Grant Total of the Items in the Basket after GST***</td>
+</tr>
+2021-10-17 08:34:07,753 [main] INFO FarmIQProjectVersion1 - ***Validating Grant Total of the Items in the Basket after GST***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 08:34:07 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>18924</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 08:34:09,178 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>18926</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 08:34:09,180 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>22854</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:178</td>
+<td title="Message">***Clicking on Sale Icon***</td>
+</tr>
+2021-10-17 08:34:13,108 [main] INFO FarmIQProjectVersion1 - ***Clicking on Sale Icon***
+
+<tr>
+<td>24050</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:188</td>
+<td title="Message">***Clicking on Add To Basket Button***</td>
+</tr>
+2021-10-17 08:34:14,304 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add To Basket Button***
+
+<tr>
+<td>24194</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:198</td>
+<td title="Message">***Validating add to basket error on leaving selection drop down blank***</td>
+</tr>
+2021-10-17 08:34:14,448 [main] INFO FarmIQProjectVersion1 - ***Validating add to basket error on leaving selection drop down blank***
+
+<tr>
+<td>26391</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:207</td>
+<td title="Message">***Selecting installation service from the drop down***</td>
+</tr>
+2021-10-17 08:34:16,645 [main] INFO FarmIQProjectVersion1 - ***Selecting installation service from the drop down***
+
+<tr>
+<td>26602</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:178</td>
+<td title="Message">***Clicking on Sale Icon***</td>
+</tr>
+2021-10-17 08:34:16,856 [main] INFO FarmIQProjectVersion1 - ***Clicking on Sale Icon***
+
+<tr>
+<td>27730</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:263</td>
+<td title="Message">***Clicking on Asdd to Basket for the second Item***</td>
+</tr>
+2021-10-17 08:34:17,984 [main] INFO FarmIQProjectVersion1 - ***Clicking on Asdd to Basket for the second Item***
+
+<tr>
+<td>27890</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:198</td>
+<td title="Message">***Validating add to basket error on leaving selection drop down blank***</td>
+</tr>
+2021-10-17 08:34:18,144 [main] INFO FarmIQProjectVersion1 - ***Validating add to basket error on leaving selection drop down blank***
+
+<tr>
+<td>30548</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:254</td>
+<td title="Message">***Selecting Colour of the Item from the drop down***</td>
+</tr>
+2021-10-17 08:34:20,802 [main] INFO FarmIQProjectVersion1 - ***Selecting Colour of the Item from the drop down***
+
+<tr>
+<td>30726</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:222</td>
+<td title="Message">***Clicking on Cart Icon***</td>
+</tr>
+2021-10-17 08:34:20,980 [main] INFO FarmIQProjectVersion1 - ***Clicking on Cart Icon***
+
+<tr>
+<td>30805</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:231</td>
+<td title="Message">***Clicking on View Basket Button***</td>
+</tr>
+2021-10-17 08:34:21,059 [main] INFO FarmIQProjectVersion1 - ***Clicking on View Basket Button***
+
+<tr>
+<td>32538</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:239</td>
+<td title="Message">***Clicking on Add to Basket Button***</td>
+</tr>
+2021-10-17 08:34:22,792 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add to Basket Button***
+
+<tr>
+<td>32653</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:272</td>
+<td title="Message">***Validating Grant Total of the Items in the Basket after GST***</td>
+</tr>
+2021-10-17 08:34:22,907 [main] INFO FarmIQProjectVersion1 - ***Validating Grant Total of the Items in the Basket after GST***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 08:34:23 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>34034</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 08:34:24,288 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>34036</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 08:34:24,290 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>37974</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:72</td>
+<td title="Message">***Clicking on Regsiter link in the Home page***</td>
+</tr>
+2021-10-17 08:34:28,228 [main] INFO FarmIQProjectVersion1 - ***Clicking on Regsiter link in the Home page***
+
+<tr>
+<td>39858</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:80</td>
+<td title="Message">***Clicking on on Regsiter button on Registration Page***</td>
+</tr>
+2021-10-17 08:34:30,112 [main] INFO FarmIQProjectVersion1 - ***Clicking on on Regsiter button on Registration Page***
+
+<tr>
+<td>41951</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:91</td>
+<td title="Message">***Validating invalid login leaving mandatory fields blank***</td>
+</tr>
+2021-10-17 08:34:32,205 [main] INFO FarmIQProjectVersion1 - ***Validating invalid login leaving mandatory fields blank***
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 08:48:32 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 08:48:36,399 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>27</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 08:48:36,426 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>5603</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:178</td>
+<td title="Message">***Clicking on Sale Icon***</td>
+</tr>
+2021-10-17 08:48:42,002 [main] INFO FarmIQProjectVersion1 - ***Clicking on Sale Icon***
+
+<tr>
+<td>6868</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:188</td>
+<td title="Message">***Clicking on Add To Basket Button***</td>
+</tr>
+2021-10-17 08:48:43,267 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add To Basket Button***
+
+<tr>
+<td>6998</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:198</td>
+<td title="Message">***Validating add to basket error on leaving selection drop down blank***</td>
+</tr>
+2021-10-17 08:48:43,397 [main] INFO FarmIQProjectVersion1 - ***Validating add to basket error on leaving selection drop down blank***
+
+<tr>
+<td>9693</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:207</td>
+<td title="Message">***Selecting installation service from the drop down***</td>
+</tr>
+2021-10-17 08:48:46,092 [main] INFO FarmIQProjectVersion1 - ***Selecting installation service from the drop down***
+
+<tr>
+<td>9917</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:222</td>
+<td title="Message">***Clicking on Cart Icon***</td>
+</tr>
+2021-10-17 08:48:46,316 [main] INFO FarmIQProjectVersion1 - ***Clicking on Cart Icon***
+
+<tr>
+<td>10030</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:231</td>
+<td title="Message">***Clicking on View Basket Button***</td>
+</tr>
+2021-10-17 08:48:46,429 [main] INFO FarmIQProjectVersion1 - ***Clicking on View Basket Button***
+
+<tr>
+<td>12452</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:239</td>
+<td title="Message">***Clicking on Add to Basket Button***</td>
+</tr>
+2021-10-17 08:48:48,851 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add to Basket Button***
+
+<tr>
+<td>12546</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:247</td>
+<td title="Message">***Clicking on Continue Shopping Button***</td>
+</tr>
+2021-10-17 08:48:48,945 [main] INFO FarmIQProjectVersion1 - ***Clicking on Continue Shopping Button***
+
+<tr>
+<td>13758</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:178</td>
+<td title="Message">***Clicking on Sale Icon***</td>
+</tr>
+2021-10-17 08:48:50,157 [main] INFO FarmIQProjectVersion1 - ***Clicking on Sale Icon***
+
+<tr>
+<td>14963</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:263</td>
+<td title="Message">***Clicking on Asdd to Basket for the second Item***</td>
+</tr>
+2021-10-17 08:48:51,362 [main] INFO FarmIQProjectVersion1 - ***Clicking on Asdd to Basket for the second Item***
+
+<tr>
+<td>15082</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:198</td>
+<td title="Message">***Validating add to basket error on leaving selection drop down blank***</td>
+</tr>
+2021-10-17 08:48:51,481 [main] INFO FarmIQProjectVersion1 - ***Validating add to basket error on leaving selection drop down blank***
+
+<tr>
+<td>17339</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:254</td>
+<td title="Message">***Selecting Colour of the Item from the drop down***</td>
+</tr>
+2021-10-17 08:48:53,738 [main] INFO FarmIQProjectVersion1 - ***Selecting Colour of the Item from the drop down***
+
+<tr>
+<td>17514</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:222</td>
+<td title="Message">***Clicking on Cart Icon***</td>
+</tr>
+2021-10-17 08:48:53,913 [main] INFO FarmIQProjectVersion1 - ***Clicking on Cart Icon***
+
+<tr>
+<td>17614</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:231</td>
+<td title="Message">***Clicking on View Basket Button***</td>
+</tr>
+2021-10-17 08:48:54,013 [main] INFO FarmIQProjectVersion1 - ***Clicking on View Basket Button***
+
+<tr>
+<td>18887</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:239</td>
+<td title="Message">***Clicking on Add to Basket Button***</td>
+</tr>
+2021-10-17 08:48:55,286 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add to Basket Button***
+
+<tr>
+<td>18933</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:272</td>
+<td title="Message">***Validating Grant Total of the Items in the Basket after GST***</td>
+</tr>
+2021-10-17 08:48:55,332 [main] INFO FarmIQProjectVersion1 - ***Validating Grant Total of the Items in the Basket after GST***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 08:48:55 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>20270</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 08:48:56,669 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>20272</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 08:48:56,671 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>24165</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:178</td>
+<td title="Message">***Clicking on Sale Icon***</td>
+</tr>
+2021-10-17 08:49:00,564 [main] INFO FarmIQProjectVersion1 - ***Clicking on Sale Icon***
+
+<tr>
+<td>25581</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:188</td>
+<td title="Message">***Clicking on Add To Basket Button***</td>
+</tr>
+2021-10-17 08:49:01,980 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add To Basket Button***
+
+<tr>
+<td>25660</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:198</td>
+<td title="Message">***Validating add to basket error on leaving selection drop down blank***</td>
+</tr>
+2021-10-17 08:49:02,059 [main] INFO FarmIQProjectVersion1 - ***Validating add to basket error on leaving selection drop down blank***
+
+<tr>
+<td>28318</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:207</td>
+<td title="Message">***Selecting installation service from the drop down***</td>
+</tr>
+2021-10-17 08:49:04,717 [main] INFO FarmIQProjectVersion1 - ***Selecting installation service from the drop down***
+
+<tr>
+<td>28543</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:178</td>
+<td title="Message">***Clicking on Sale Icon***</td>
+</tr>
+2021-10-17 08:49:04,942 [main] INFO FarmIQProjectVersion1 - ***Clicking on Sale Icon***
+
+<tr>
+<td>30759</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:263</td>
+<td title="Message">***Clicking on Asdd to Basket for the second Item***</td>
+</tr>
+2021-10-17 08:49:07,158 [main] INFO FarmIQProjectVersion1 - ***Clicking on Asdd to Basket for the second Item***
+
+<tr>
+<td>30900</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:198</td>
+<td title="Message">***Validating add to basket error on leaving selection drop down blank***</td>
+</tr>
+2021-10-17 08:49:07,299 [main] INFO FarmIQProjectVersion1 - ***Validating add to basket error on leaving selection drop down blank***
+
+<tr>
+<td>34010</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:254</td>
+<td title="Message">***Selecting Colour of the Item from the drop down***</td>
+</tr>
+2021-10-17 08:49:10,409 [main] INFO FarmIQProjectVersion1 - ***Selecting Colour of the Item from the drop down***
+
+<tr>
+<td>34229</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:222</td>
+<td title="Message">***Clicking on Cart Icon***</td>
+</tr>
+2021-10-17 08:49:10,628 [main] INFO FarmIQProjectVersion1 - ***Clicking on Cart Icon***
+
+<tr>
+<td>34327</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:231</td>
+<td title="Message">***Clicking on View Basket Button***</td>
+</tr>
+2021-10-17 08:49:10,726 [main] INFO FarmIQProjectVersion1 - ***Clicking on View Basket Button***
+
+<tr>
+<td>37144</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:239</td>
+<td title="Message">***Clicking on Add to Basket Button***</td>
+</tr>
+2021-10-17 08:49:13,543 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add to Basket Button***
+
+<tr>
+<td>37220</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:272</td>
+<td title="Message">***Validating Grant Total of the Items in the Basket after GST***</td>
+</tr>
+2021-10-17 08:49:13,619 [main] INFO FarmIQProjectVersion1 - ***Validating Grant Total of the Items in the Basket after GST***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 08:49:13 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>38739</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 08:49:15,138 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>38741</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 08:49:15,140 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>42566</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:72</td>
+<td title="Message">***Clicking on Regsiter link in the Home page***</td>
+</tr>
+2021-10-17 08:49:18,965 [main] INFO FarmIQProjectVersion1 - ***Clicking on Regsiter link in the Home page***
+
+<tr>
+<td>44134</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:80</td>
+<td title="Message">***Clicking on on Regsiter button on Registration Page***</td>
+</tr>
+2021-10-17 08:49:20,533 [main] INFO FarmIQProjectVersion1 - ***Clicking on on Regsiter button on Registration Page***
+
+<tr>
+<td>46232</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:91</td>
+<td title="Message">***Validating invalid login leaving mandatory fields blank***</td>
+</tr>
+2021-10-17 08:49:22,631 [main] INFO FarmIQProjectVersion1 - ***Validating invalid login leaving mandatory fields blank***
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 08:53:02 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 08:53:04,482 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>24</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 08:53:04,506 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>5696</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:178</td>
+<td title="Message">***Clicking on Sale Icon***</td>
+</tr>
+2021-10-17 08:53:10,178 [main] INFO FarmIQProjectVersion1 - ***Clicking on Sale Icon***
+
+<tr>
+<td>7484</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:188</td>
+<td title="Message">***Clicking on Add To Basket Button***</td>
+</tr>
+2021-10-17 08:53:11,966 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add To Basket Button***
+
+<tr>
+<td>7632</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:198</td>
+<td title="Message">***Validating add to basket error on leaving selection drop down blank***</td>
+</tr>
+2021-10-17 08:53:12,114 [main] INFO FarmIQProjectVersion1 - ***Validating add to basket error on leaving selection drop down blank***
+
+<tr>
+<td>10083</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:207</td>
+<td title="Message">***Selecting installation service from the drop down***</td>
+</tr>
+2021-10-17 08:53:14,565 [main] INFO FarmIQProjectVersion1 - ***Selecting installation service from the drop down***
+
+<tr>
+<td>10372</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:222</td>
+<td title="Message">***Clicking on Cart Icon***</td>
+</tr>
+2021-10-17 08:53:14,854 [main] INFO FarmIQProjectVersion1 - ***Clicking on Cart Icon***
+
+<tr>
+<td>10491</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:231</td>
+<td title="Message">***Clicking on View Basket Button***</td>
+</tr>
+2021-10-17 08:53:14,973 [main] INFO FarmIQProjectVersion1 - ***Clicking on View Basket Button***
+
+<tr>
+<td>12390</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:239</td>
+<td title="Message">***Clicking on Add to Basket Button***</td>
+</tr>
+2021-10-17 08:53:16,872 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add to Basket Button***
+
+<tr>
+<td>12494</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:247</td>
+<td title="Message">***Clicking on Continue Shopping Button***</td>
+</tr>
+2021-10-17 08:53:16,976 [main] INFO FarmIQProjectVersion1 - ***Clicking on Continue Shopping Button***
+
+<tr>
+<td>13386</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:178</td>
+<td title="Message">***Clicking on Sale Icon***</td>
+</tr>
+2021-10-17 08:53:17,868 [main] INFO FarmIQProjectVersion1 - ***Clicking on Sale Icon***
+
+<tr>
+<td>14544</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:263</td>
+<td title="Message">***Clicking on Asdd to Basket for the second Item***</td>
+</tr>
+2021-10-17 08:53:19,026 [main] INFO FarmIQProjectVersion1 - ***Clicking on Asdd to Basket for the second Item***
+
+<tr>
+<td>14689</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:198</td>
+<td title="Message">***Validating add to basket error on leaving selection drop down blank***</td>
+</tr>
+2021-10-17 08:53:19,171 [main] INFO FarmIQProjectVersion1 - ***Validating add to basket error on leaving selection drop down blank***
+
+<tr>
+<td>16921</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:254</td>
+<td title="Message">***Selecting Colour of the Item from the drop down***</td>
+</tr>
+2021-10-17 08:53:21,403 [main] INFO FarmIQProjectVersion1 - ***Selecting Colour of the Item from the drop down***
+
+<tr>
+<td>17132</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:222</td>
+<td title="Message">***Clicking on Cart Icon***</td>
+</tr>
+2021-10-17 08:53:21,614 [main] INFO FarmIQProjectVersion1 - ***Clicking on Cart Icon***
+
+<tr>
+<td>17218</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:231</td>
+<td title="Message">***Clicking on View Basket Button***</td>
+</tr>
+2021-10-17 08:53:21,700 [main] INFO FarmIQProjectVersion1 - ***Clicking on View Basket Button***
+
+<tr>
+<td>18370</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:239</td>
+<td title="Message">***Clicking on Add to Basket Button***</td>
+</tr>
+2021-10-17 08:53:22,852 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add to Basket Button***
+
+<tr>
+<td>18399</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:272</td>
+<td title="Message">***Validating Grant Total of the Items in the Basket after GST***</td>
+</tr>
+2021-10-17 08:53:22,881 [main] INFO FarmIQProjectVersion1 - ***Validating Grant Total of the Items in the Basket after GST***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 08:53:23 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>20402</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 08:53:24,884 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>20404</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 08:53:24,886 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>25025</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:178</td>
+<td title="Message">***Clicking on Sale Icon***</td>
+</tr>
+2021-10-17 08:53:29,507 [main] INFO FarmIQProjectVersion1 - ***Clicking on Sale Icon***
+
+<tr>
+<td>26301</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:188</td>
+<td title="Message">***Clicking on Add To Basket Button***</td>
+</tr>
+2021-10-17 08:53:30,783 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add To Basket Button***
+
+<tr>
+<td>26451</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:198</td>
+<td title="Message">***Validating add to basket error on leaving selection drop down blank***</td>
+</tr>
+2021-10-17 08:53:30,933 [main] INFO FarmIQProjectVersion1 - ***Validating add to basket error on leaving selection drop down blank***
+
+<tr>
+<td>28812</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:207</td>
+<td title="Message">***Selecting installation service from the drop down***</td>
+</tr>
+2021-10-17 08:53:33,294 [main] INFO FarmIQProjectVersion1 - ***Selecting installation service from the drop down***
+
+<tr>
+<td>29066</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:178</td>
+<td title="Message">***Clicking on Sale Icon***</td>
+</tr>
+2021-10-17 08:53:33,548 [main] INFO FarmIQProjectVersion1 - ***Clicking on Sale Icon***
+
+<tr>
+<td>30165</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:263</td>
+<td title="Message">***Clicking on Asdd to Basket for the second Item***</td>
+</tr>
+2021-10-17 08:53:34,647 [main] INFO FarmIQProjectVersion1 - ***Clicking on Asdd to Basket for the second Item***
+
+<tr>
+<td>30318</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:198</td>
+<td title="Message">***Validating add to basket error on leaving selection drop down blank***</td>
+</tr>
+2021-10-17 08:53:34,800 [main] INFO FarmIQProjectVersion1 - ***Validating add to basket error on leaving selection drop down blank***
+
+<tr>
+<td>32632</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:254</td>
+<td title="Message">***Selecting Colour of the Item from the drop down***</td>
+</tr>
+2021-10-17 08:53:37,114 [main] INFO FarmIQProjectVersion1 - ***Selecting Colour of the Item from the drop down***
+
+<tr>
+<td>32914</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:222</td>
+<td title="Message">***Clicking on Cart Icon***</td>
+</tr>
+2021-10-17 08:53:37,396 [main] INFO FarmIQProjectVersion1 - ***Clicking on Cart Icon***
+
+<tr>
+<td>33039</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:231</td>
+<td title="Message">***Clicking on View Basket Button***</td>
+</tr>
+2021-10-17 08:53:37,521 [main] INFO FarmIQProjectVersion1 - ***Clicking on View Basket Button***
+
+<tr>
+<td>34627</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:239</td>
+<td title="Message">***Clicking on Add to Basket Button***</td>
+</tr>
+2021-10-17 08:53:39,109 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add to Basket Button***
+
+<tr>
+<td>34726</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:272</td>
+<td title="Message">***Validating Grant Total of the Items in the Basket after GST***</td>
+</tr>
+2021-10-17 08:53:39,208 [main] INFO FarmIQProjectVersion1 - ***Validating Grant Total of the Items in the Basket after GST***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 08:53:39 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>37015</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 08:53:41,497 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>37018</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 08:53:41,500 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>40921</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:72</td>
+<td title="Message">***Clicking on Regsiter link in the Home page***</td>
+</tr>
+2021-10-17 08:53:45,403 [main] INFO FarmIQProjectVersion1 - ***Clicking on Regsiter link in the Home page***
+
+<tr>
+<td>42563</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:80</td>
+<td title="Message">***Clicking on on Regsiter button on Registration Page***</td>
+</tr>
+2021-10-17 08:53:47,045 [main] INFO FarmIQProjectVersion1 - ***Clicking on on Regsiter button on Registration Page***
+
+<tr>
+<td>44666</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:91</td>
+<td title="Message">***Validating invalid login leaving mandatory fields blank***</td>
+</tr>
+2021-10-17 08:53:49,148 [main] INFO FarmIQProjectVersion1 - ***Validating invalid login leaving mandatory fields blank***
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 08:59:40 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 08:59:43,643 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>45</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 08:59:43,688 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>4734</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:178</td>
+<td title="Message">***Clicking on Sale Icon***</td>
+</tr>
+2021-10-17 08:59:48,377 [main] INFO FarmIQProjectVersion1 - ***Clicking on Sale Icon***
+
+<tr>
+<td>5977</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:188</td>
+<td title="Message">***Clicking on Add To Basket Button***</td>
+</tr>
+2021-10-17 08:59:49,620 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add To Basket Button***
+
+<tr>
+<td>6202</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:198</td>
+<td title="Message">***Validating add to basket error on leaving selection drop down blank***</td>
+</tr>
+2021-10-17 08:59:49,845 [main] INFO FarmIQProjectVersion1 - ***Validating add to basket error on leaving selection drop down blank***
+
+<tr>
+<td>8693</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:207</td>
+<td title="Message">***Selecting installation service from the drop down***</td>
+</tr>
+2021-10-17 08:59:52,336 [main] INFO FarmIQProjectVersion1 - ***Selecting installation service from the drop down***
+
+<tr>
+<td>9005</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:222</td>
+<td title="Message">***Clicking on Cart Icon***</td>
+</tr>
+2021-10-17 08:59:52,648 [main] INFO FarmIQProjectVersion1 - ***Clicking on Cart Icon***
+
+<tr>
+<td>9120</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:231</td>
+<td title="Message">***Clicking on View Basket Button***</td>
+</tr>
+2021-10-17 08:59:52,763 [main] INFO FarmIQProjectVersion1 - ***Clicking on View Basket Button***
+
+<tr>
+<td>11293</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:239</td>
+<td title="Message">***Clicking on Add to Basket Button***</td>
+</tr>
+2021-10-17 08:59:54,936 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add to Basket Button***
+
+<tr>
+<td>11347</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:247</td>
+<td title="Message">***Clicking on Continue Shopping Button***</td>
+</tr>
+2021-10-17 08:59:54,990 [main] INFO FarmIQProjectVersion1 - ***Clicking on Continue Shopping Button***
+
+<tr>
+<td>12640</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:178</td>
+<td title="Message">***Clicking on Sale Icon***</td>
+</tr>
+2021-10-17 08:59:56,283 [main] INFO FarmIQProjectVersion1 - ***Clicking on Sale Icon***
+
+<tr>
+<td>13916</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:263</td>
+<td title="Message">***Clicking on Asdd to Basket for the second Item***</td>
+</tr>
+2021-10-17 08:59:57,559 [main] INFO FarmIQProjectVersion1 - ***Clicking on Asdd to Basket for the second Item***
+
+<tr>
+<td>14082</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:198</td>
+<td title="Message">***Validating add to basket error on leaving selection drop down blank***</td>
+</tr>
+2021-10-17 08:59:57,725 [main] INFO FarmIQProjectVersion1 - ***Validating add to basket error on leaving selection drop down blank***
+
+<tr>
+<td>16447</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:254</td>
+<td title="Message">***Selecting Colour of the Item from the drop down***</td>
+</tr>
+2021-10-17 09:00:00,090 [main] INFO FarmIQProjectVersion1 - ***Selecting Colour of the Item from the drop down***
+
+<tr>
+<td>16773</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:222</td>
+<td title="Message">***Clicking on Cart Icon***</td>
+</tr>
+2021-10-17 09:00:00,416 [main] INFO FarmIQProjectVersion1 - ***Clicking on Cart Icon***
+
+<tr>
+<td>16900</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:231</td>
+<td title="Message">***Clicking on View Basket Button***</td>
+</tr>
+2021-10-17 09:00:00,543 [main] INFO FarmIQProjectVersion1 - ***Clicking on View Basket Button***
+
+<tr>
+<td>18028</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:239</td>
+<td title="Message">***Clicking on Add to Basket Button***</td>
+</tr>
+2021-10-17 09:00:01,671 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add to Basket Button***
+
+<tr>
+<td>18119</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:272</td>
+<td title="Message">***Validating Grant Total of the Items in the Basket after GST***</td>
+</tr>
+2021-10-17 09:00:01,762 [main] INFO FarmIQProjectVersion1 - ***Validating Grant Total of the Items in the Basket after GST***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 09:00:02 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>19891</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 09:00:03,534 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>19895</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 09:00:03,538 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>24433</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:178</td>
+<td title="Message">***Clicking on Sale Icon***</td>
+</tr>
+2021-10-17 09:00:08,076 [main] INFO FarmIQProjectVersion1 - ***Clicking on Sale Icon***
+
+<tr>
+<td>25596</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:188</td>
+<td title="Message">***Clicking on Add To Basket Button***</td>
+</tr>
+2021-10-17 09:00:09,239 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add To Basket Button***
+
+<tr>
+<td>25754</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:198</td>
+<td title="Message">***Validating add to basket error on leaving selection drop down blank***</td>
+</tr>
+2021-10-17 09:00:09,397 [main] INFO FarmIQProjectVersion1 - ***Validating add to basket error on leaving selection drop down blank***
+
+<tr>
+<td>28023</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:207</td>
+<td title="Message">***Selecting installation service from the drop down***</td>
+</tr>
+2021-10-17 09:00:11,666 [main] INFO FarmIQProjectVersion1 - ***Selecting installation service from the drop down***
+
+<tr>
+<td>28312</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:178</td>
+<td title="Message">***Clicking on Sale Icon***</td>
+</tr>
+2021-10-17 09:00:11,955 [main] INFO FarmIQProjectVersion1 - ***Clicking on Sale Icon***
+
+<tr>
+<td>29546</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:263</td>
+<td title="Message">***Clicking on Asdd to Basket for the second Item***</td>
+</tr>
+2021-10-17 09:00:13,189 [main] INFO FarmIQProjectVersion1 - ***Clicking on Asdd to Basket for the second Item***
+
+<tr>
+<td>29861</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:198</td>
+<td title="Message">***Validating add to basket error on leaving selection drop down blank***</td>
+</tr>
+2021-10-17 09:00:13,504 [main] INFO FarmIQProjectVersion1 - ***Validating add to basket error on leaving selection drop down blank***
+
+<tr>
+<td>33012</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:254</td>
+<td title="Message">***Selecting Colour of the Item from the drop down***</td>
+</tr>
+2021-10-17 09:00:16,655 [main] INFO FarmIQProjectVersion1 - ***Selecting Colour of the Item from the drop down***
+
+<tr>
+<td>33262</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:222</td>
+<td title="Message">***Clicking on Cart Icon***</td>
+</tr>
+2021-10-17 09:00:16,905 [main] INFO FarmIQProjectVersion1 - ***Clicking on Cart Icon***
+
+<tr>
+<td>33496</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:231</td>
+<td title="Message">***Clicking on View Basket Button***</td>
+</tr>
+2021-10-17 09:00:17,139 [main] INFO FarmIQProjectVersion1 - ***Clicking on View Basket Button***
+
+<tr>
+<td>36163</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:239</td>
+<td title="Message">***Clicking on Add to Basket Button***</td>
+</tr>
+2021-10-17 09:00:19,806 [main] INFO FarmIQProjectVersion1 - ***Clicking on Add to Basket Button***
+
+<tr>
+<td>36235</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:272</td>
+<td title="Message">***Validating Grant Total of the Items in the Basket after GST***</td>
+</tr>
+2021-10-17 09:00:19,878 [main] INFO FarmIQProjectVersion1 - ***Validating Grant Total of the Items in the Basket after GST***
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Sun Oct 17 09:00:20 NZDT 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>38511</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:48</td>
+<td title="Message">***Launching Browser***</td>
+</tr>
+2021-10-17 09:00:22,154 [main] INFO FarmIQProjectVersion1 - ***Launching Browser***
+
+<tr>
+<td>38513</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:64</td>
+<td title="Message">***Opening URL***</td>
+</tr>
+2021-10-17 09:00:22,156 [main] INFO FarmIQProjectVersion1 - ***Opening URL***
+
+<tr>
+<td>42744</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:72</td>
+<td title="Message">***Clicking on Regsiter link in the Home page***</td>
+</tr>
+2021-10-17 09:00:26,387 [main] INFO FarmIQProjectVersion1 - ***Clicking on Regsiter link in the Home page***
+
+<tr>
+<td>44117</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:80</td>
+<td title="Message">***Clicking on on Regsiter button on Registration Page***</td>
+</tr>
+2021-10-17 09:00:27,760 [main] INFO FarmIQProjectVersion1 - ***Clicking on on Regsiter button on Registration Page***
+
+<tr>
+<td>46254</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="FarmIQProjectVersion1 category">FarmIQProjectVersion1</td>
+<td>StepDefinition.java:91</td>
+<td title="Message">***Validating invalid login leaving mandatory fields blank***</td>
+</tr>
+2021-10-17 09:00:29,897 [main] INFO FarmIQProjectVersion1 - ***Validating invalid login leaving mandatory fields blank***
